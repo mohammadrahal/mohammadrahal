@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Psychologist website**
 
-- 🌱 I’m currently learning **MERN full stack developer**
+- 🌱 I’m currently **MERN full stack developer**
 
 - 💬 Ask me about **react, java, C**
 
