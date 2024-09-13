@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently MERN Full Stack Developer, Full Stack , WordPress<br><br>💬 Ask me about react, java, C, PHP , TS<br><br>📫 How to reach me rahalmohamad21@gmail.com
+🌱 I’m currently  Full Stack Developer,WordPress<br><br>💬 Ask me about reactjs, javascript, java, C, PHP, TS<br><br>📫 How to reach me rahalmohamad21@gmail.com
 
 
 ## 🌐 Socials:
@@ -11,11 +11,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=mohammadrahal&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadrahal&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrahal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohammadrahal&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=mohammadrahal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
