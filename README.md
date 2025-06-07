@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently  Full Stack Developer,WordPress<br><br>💬 Ask me about reactjs, javascript, java, C, PHP, TS<br><br>📫 How to reach me rahalmohamad21@gmail.com
+🌱 I’m currently  Front End Developer,WordPress<br><br>💬 Ask me about reactjs, javascript, java, C, PHP, TS<br><br>📫 How to reach me rahalmohamad21@gmail.com
 
 
 ## 🌐 Socials:
